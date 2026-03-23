@@ -44,7 +44,7 @@ I developed this project to strengthen my skills in data analysis, data preproce
 * Trained machine learning models
 * Evaluated model performance and optimized results
 
-** 🧠 What I Learned
+## 🧠 What I Learned
 * **Data Analysis Workflow:** From raw data to actionable insights
 * **Data Cleaning Techniques:** Handling real-world messy datasets
 * **Machine Learning Basics:** Building and evaluating regression models
